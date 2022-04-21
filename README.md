@@ -2,4 +2,7 @@
 
 ## Guided Tableau Project Dashboard
 
-![Screenshot (578)](https://user-images.githubusercontent.com/103035348/164378369-5aa0ff30-16f0-4cef-ac94-adeb80d9aace.png)
+
+![Screenshot (581)](https://user-images.githubusercontent.com/103035348/164379730-fac9ef28-7c46-4c1f-a2a2-236b0c30b036.png)
+
+![Screenshot (580)](https://user-images.githubusercontent.com/103035348/164379796-50736764-29a3-4b49-ae29-4b1d84d0c2bc.png)
